@@ -1,0 +1,49 @@
+.card-title-{ font-size: 60px;
+align-self: end;
+margin-right: 160px;
+}
+.card-text-{
+font-size: 27px;
+width: 900px;
+text-align: end;
+align-self: end;
+margin-right: 150px;
+}
+.card-img-overlay{
+	display:flex;
+	flex-direction: column;
+	justify-content:end;
+	align-items:center;   }
+
+	.button{
+		align-self: end;
+		margin-right: 150px;
+		margin-bottom: 250px;
+	}
+.navbar{
+	padding: 13px;
+	justify-content: end;
+	padding-right: 150px;
+	padding-left: 100px;
+}
+.cards{
+	margin:20px;
+}
+.mleft{
+margin-left: 200px;
+}
+.mright{ margin-right: 200px; }
+footer{ background-color: #356078; 
+  display: flex;
+  justify-content: space-evenly;
+  padding:40px;
+}
+.p{ color:grey; }
+.formulario{
+	margin-right: 450px;
+	margin-left: 400px;
+}
+.cverde{
+	background-color: #a6c74c;
+}
+.bg{ background-color: #494d4f }
